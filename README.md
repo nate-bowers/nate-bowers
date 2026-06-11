@@ -14,8 +14,6 @@ Curious by default, fast by habit, and happiest when I'm learning something hard
 
 &nbsp;&nbsp;**[Daily Brief](https://dailybriefmail.com)** &nbsp;—&nbsp; a personal newspaper an AI writes for you every morning.
 
-&nbsp;&nbsp;**xbot** &nbsp;—&nbsp; an autonomous tech-Twitter account. It drafts on its own and posts on a cron.
-
 &nbsp;&nbsp;**SurfScore** &nbsp;—&nbsp; a NorCal surf forecaster I actually use to decide if the drive is worth it.
 
 ---
