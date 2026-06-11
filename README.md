@@ -1,23 +1,9 @@
-```
-   ┌─────────────────────────────┐
-   │                             │
-   │     nate bowers             │
-   │     builds small things     │
-   │     that do real work       │
-   │                             │
-   └─────────────────────────────┘
-```
+nate bowers
 
-—
+---
 
-**live**
+`2026-06` &nbsp; **xbot** — autonomous tech-twitter. drafts on cowork, posts on a gh actions cron.
 
-→ [dailybriefmail.com](https://dailybriefmail.com) — a personal newsletter, written by an AI for you every morning  
-→ [xbot](https://github.com/nate-bowers/xbot) — autonomous tweetbot. four posts a day, four cents a day  
-→ [surfscore](https://github.com/nate-bowers/SurfScore-project) — forecasts and scores NorCal surf breaks  
+`2026-05` &nbsp; **[daily brief](https://dailybriefmail.com)** — a personal newspaper an AI writes for you each morning.
 
-—
-
-**stack**
-
-`python` · `typescript` · `next.js` · `supabase` · `postgres` · `llms`
+`2026-01` &nbsp; **surfscore** — forecaster for NorCal surf. i use it to know if the drive is worth it.
