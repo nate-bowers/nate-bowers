@@ -8,7 +8,7 @@
 
 ---
 
-Curious by default, fast by habit, and happiest when I'm learning something hard. Lately that's meant going deep on applied AI — less interested in the hype than in where these systems actually create leverage, a question I usually end up answering by building.
+Curious by default, fast by habit, and happiest when I'm learning something hard. Lately that's meant going deep on applied AI — less interested in the hype than in where these systems actually create leverage, a question I usually end up answering by building. 
 
 ### Things I've built
 
